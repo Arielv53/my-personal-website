@@ -1,3 +1,11 @@
 body {
-    background: blue;
+    background: #f0f8ff;
   }
+
+.header {
+    padding: 30px:
+    text-align: center;
+    background: #add8e6;
+    color: white;
+    font-size: 30px;
+}
